@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='JSONFotosConJAXBMarcosMiranda' version='1.0'>
+	<schema type='-xmlschema' package='fotosBind' name='fotosBinding'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/fotosBinding/fotos.xsd' origLocation='../../../Desktop/2º DAM/Acceso a datos/SegundoCuatrimestre/JSON/EjercicioJsonFotos/fotos.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>

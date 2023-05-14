@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/sssoc/Documents/NetBeansProjects/JSONFotosConJAXBMarcosMiranda/../../../Desktop/2º%20DAM/Acceso%20a%20datos/SegundoCuatrimestre/JSON/EjercicioJsonFotos/fotos.xsd" uri="xml-resources/jaxb/fotosBinding/fotos.xsd"/>
+</catalog>
